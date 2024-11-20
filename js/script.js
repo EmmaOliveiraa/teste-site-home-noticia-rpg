@@ -28,7 +28,7 @@ document.addEventListener('DOMContentLoaded', function() {
 let noticias = document.querySelector('.outras-noticias-1-single');
 
             noticias.addEventListener('click',()=>{
-                window.location.href='file:///C:/Users/igorc/Desktop/RPG/site%20noticia%20rpg/tentativa%2003/index.html';
+                window.location.href='https://emmaoliveiraa.github.io/noticia-01-rpg/';
             });
 
 
